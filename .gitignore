@@ -1,0 +1,7 @@
+# folders.
+data/
+**.ipynb_checkpoints/
+**.vscode/
+scripts/
+
+# files.
